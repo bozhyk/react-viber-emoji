@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Dmytro B",
+    "url": "http://twitter.com/oztune"
+  },
+  "dependencies": {
+    "lodash.assign": "^4.0.8",
+    "string-replace-to-array": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "Minimalistic viber emoji rendering library for React",
+  "devDependencies": {
+    "react": "^15.0.1"
+  },
+  "homepage": "https://github.com/bozhyk/react-viber-emoji#readme",
+  "keywords": [
+    "emoji",
+    "react",
+    "viber"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-viber-emoji",
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bozhyk/react-viber-emoji.git"
+  },
+  "version": "1.0.0"
+}
