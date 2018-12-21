@@ -9,5 +9,6 @@ Features:
 - easy to use or fork;
 - simple functional API;
 - emojie images are Viber native;
-<img src="docs/screenshot0.png" width="48">
+<img src="docs/screenshot0.png" width="548">
+
 ![desktop page](docs/screenshot0.png "Preview")
