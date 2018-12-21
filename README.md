@@ -9,5 +9,5 @@ Features:
 - easy to use or fork;
 - simple functional API;
 - emojie images are Viber native;
-<img src="docs/screenshot0.png"  width="648">
+<img src="docs/screenshot0.png"  width="500">
 
