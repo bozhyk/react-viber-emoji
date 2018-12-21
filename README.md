@@ -9,3 +9,5 @@ Features:
 - easy to use or fork;
 - simple functional API;
 - emojie images are Viber native;
+
+![desktop page](docs/screenshot0.png "Preview")
