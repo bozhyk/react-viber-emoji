@@ -10,7 +10,8 @@ Finally get them on your server and start building your own web apps using easy 
 - emojie images are Viber native;
 
 ## Usage:
-```import emoji from 'react-viber-emoji'
+```
+import emoji from 'react-viber-emoji'
 
 class Page extends React.Component {
     render () {
